@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/res-ll-004-th.jpeg
+file_size: 44277
 file_type: image/jpeg
 image_metadata:
   caption: ''
