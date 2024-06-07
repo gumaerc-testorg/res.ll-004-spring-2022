@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/chess-2-1.png
+file_size: 69367
 file_type: image/png
 image_metadata:
   caption: ''
