@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/bluetooth-1.jpg
+file_size: 28306
 file_type: image/jpeg
 image_metadata:
   caption: ''

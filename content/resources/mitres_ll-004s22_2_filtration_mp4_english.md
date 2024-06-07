@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/mitres_ll-004s22_2_filtration_mp4_english.vtt
+file_size: 7739
 file_type: text/vtt
 image_metadata:
   caption: ''
