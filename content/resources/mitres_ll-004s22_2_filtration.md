@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/mitres_ll-004s22_2_filtration_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/mitres_ll-004s22_2_filtration_360p_16_9.mp4
 file_size: 5546214
 file_type: video/mp4
 image_metadata:
