@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/knight-white.png
+file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/knight-white.png
 file_size: 2795
 file_type: image/png
 image_metadata:
