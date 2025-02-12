@@ -36,7 +36,7 @@ Computer science is the study of computers and computing and their theoretical a
 
 ### Societies:
 
-- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org): The technical objectives of the IEEE focus on advancing the theory and practice of electrical, electronics, and computer engineering as well as computer science. 
+- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/): The technical objectives of the IEEE focus on advancing the theory and practice of electrical, electronics, and computer engineering as well as computer science. 
 - [Association for Computing Machinery (ACM)](http://acm.org/): ACM, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession.
     - [ACM Special Interest Groups (SIGs)](https://www.acm.org/special-interest-groups/alphabetical-listing): 37 groups dedicated to specific topics in computer science and software engineering.
 - [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/): Nonprofit scientific society devoted to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines.
@@ -61,4 +61,4 @@ Computer science is the study of computers and computing and their theoretical a
 
 ### Sources
 
-Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org), [Computer Science Conferences](https://conferenceindex.org/conferences/computer-science), [US News: What Can You Do With a Comp Sci Degree?](https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree), Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
+Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org/), [Computer Science Conferences](https://conferenceindex.org/conferences/computer-science), [US News: What Can You Do With a Comp Sci Degree?](https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree), Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://westlibrary.txwes.edu/c.php?g=829143&p=5934266), professional association websites
