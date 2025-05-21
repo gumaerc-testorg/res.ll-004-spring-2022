@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/community.png
+file: courses/ll-educate-introduction-to-engineering-concepts/community.png
 file_size: 776753
 file_type: image/png
 image_metadata:

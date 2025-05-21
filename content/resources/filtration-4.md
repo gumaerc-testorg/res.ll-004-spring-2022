@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/filtration-4.png
+file: courses/ll-educate-introduction-to-engineering-concepts/filtration-4.png
 file_size: 355205
 file_type: image/png
 image_metadata:
