@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/queen-white.png
+file: courses/ll-educate-introduction-to-engineering-concepts/queen-white.png
 file_size: 4184
 file_type: image/png
 image_metadata:
