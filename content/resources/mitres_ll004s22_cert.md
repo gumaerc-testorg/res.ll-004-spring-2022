@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ll-educate-introduction-to-engineering-concepts/mitres_ll004s22_cert.pdf
+file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/mitres_ll004s22_cert.pdf
 file_size: 100770
 file_type: application/pdf
 image_metadata:
