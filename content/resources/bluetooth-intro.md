@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ll-educate-introduction-to-engineering-concepts/bluetooth-intro.jpg
+file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/bluetooth-intro.jpg
 file_size: 23976
 file_type: image/jpeg
 image_metadata:
