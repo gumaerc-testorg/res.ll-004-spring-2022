@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ll-educate-introduction-to-engineering-concepts/eng-fields.png
+file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/eng-fields.png
 file_size: 712132
 file_type: image/png
 image_metadata:

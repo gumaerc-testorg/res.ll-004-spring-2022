@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ll-educate-introduction-to-engineering-concepts/chess-intro-pawn.png
+file: /ol-ocw-studio-app/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/chess-intro-pawn.png
 file_size: 6030
 file_type: image/png
 image_metadata:

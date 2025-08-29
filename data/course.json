@@ -38,9 +38,10 @@
     "website": "ll-educate-introduction-to-engineering-concepts"
   },
   "learning_resource_types": [
-    "Labs",
+    "Laboratory Assignments",
     "Videos"
   ],
   "site_uid": "dde77c1c-2843-40bf-a8d2-27658408e014",
-  "site_short_id": "res.ll-004-spring-2022"
+  "site_short_id": "res.ll-004-spring-2022",
+  "site_url_path": "courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022"
 }
