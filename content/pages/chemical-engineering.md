@@ -36,19 +36,19 @@ The field of chemical engineering offers unique opportunities to make a real dif
 
 ### Societies:
 
-- [American Chemical Society (ACS)](http://www.acs.org/): The society is recognized as a world leader in fostering scientific education and research and promoting public understanding of science.
-- [American Institute of Chemical Engineers (AIChE)](http://www.aiche.org/): AIChE promotes excellence in chemical engineering education and global practice.
-- [Electrochemical Society (ECS)](http://www.electrochem.org/): ECS is an international educational, non-profit organization concerned with a broad range of phenomena related to electrochemical and solid-state science and technology.
-- [National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCChE)](https://www.nobcche.org): NOBCChE is committed to the professional and educational growth of underrepresented minorities in the sciences.
-- [American Hydrogen Association (AHA)](http://www.clean-air.org/): The AHA is a non-profit association of individuals and institutions, technical and non-technical, who are dedicated to the advancement of inexpensive, clean, and safe hydrogen energy systems.
+- {{% resource_link "d14a6353-4d96-4900-baf2-dc9b1c029dbb" "American Chemical Society (ACS)" %}}: The society is recognized as a world leader in fostering scientific education and research and promoting public understanding of science.
+- {{% resource_link "9b6ac460-8fbb-4564-a64b-381e6397789e" "American Institute of Chemical Engineers (AIChE)" %}}: AIChE promotes excellence in chemical engineering education and global practice.
+- {{% resource_link "ea60ff08-7e86-479a-9a35-4114c10a6d7a" "Electrochemical Society (ECS)" %}}: ECS is an international educational, non-profit organization concerned with a broad range of phenomena related to electrochemical and solid-state science and technology.
+- {{% resource_link "41ab421b-789b-43a3-979e-6a1a994f1635" "National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCChE)" %}}: NOBCChE is committed to the professional and educational growth of underrepresented minorities in the sciences.
+- {{% resource_link "20d38111-0e3b-4efb-a211-486dd835a144" "American Hydrogen Association (AHA)" %}}: The AHA is a non-profit association of individuals and institutions, technical and non-technical, who are dedicated to the advancement of inexpensive, clean, and safe hydrogen energy systems.
 
 ### Conferences:
 
-- [ICAC 2021: Applied Chemistry Conference](https://waset.org/applied-chemistry-conference-in-august-2021-in-london)
-- [ICCBEE 2021: Chemical, Biological and Environmental Engineering Conference](https://waset.org/chemical-biological-and-environmental-engineering-conference-in-november-2021-in-london)
-- [ICACCE 2021: Applied Chemistry and Chemical Engineering Conference](https://waset.org/applied-chemistry-and-chemical-engineering-conference-in-august-2021-in-montreal)
-- [ICERAERACP 2021: Environmental Risk Assessment and Environmental Risk Assessment of Chemical Products Conference](https://waset.org/environmental-risk-assessment-and-environmental-risk-assessment-of-chemical-products-conference-in-july-2021-in-berlin)
+- {{% resource_link "7cfe8f25-60ca-479f-a4df-7d9b7a456ca7" "ICAC 2021: Applied Chemistry Conference" %}}
+- {{% resource_link "2817a65b-13ac-4a04-9fc9-26ecbc11d5e9" "ICCBEE 2021: Chemical, Biological and Environmental Engineering Conference" %}}
+- {{% resource_link "cc49e463-10e9-4aa8-9138-028bd6db0176" "ICACCE 2021: Applied Chemistry and Chemical Engineering Conference" %}}
+- {{% resource_link "2c321ec6-bc98-49d1-8054-60652889ebef" "ICERAERACP 2021: Environmental Risk Assessment and Environmental Risk Assessment of Chemical Products Conference" %}}
 
 #### Sources
 
-Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Chemical Engineering Conferences](https://conferenceindex.org/conferences/chemical-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, {{% resource_link "0174e2af-c93c-46ee-8904-7077041ef1fc" "Try Engineering (IEEE)" %}}, {{% resource_link "2a1775cc-3911-4b14-8343-fbf95307d3dc" "Chemical Engineering Conferences" %}}, {{% resource_link "8015e923-a26a-40c7-83ea-a658247ebd74" "Engineering Professional Associations & Organizations" %}}, {{% resource_link "e61c7de9-80f0-42c5-b565-8c1fb372e428" "Engineering Societies & Organizations" %}}, professional association websites

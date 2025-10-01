@@ -5,7 +5,7 @@ draft: false
 title: 'Bluetooth Hide & Seek | Step 1: Gathering Materials'
 uid: 8407b28f-514f-467f-9518-ce8c4862da83
 ---
-Before you can start, you will need to gather the supplies. This experiment uses an Adafruit kit, specifically the [Bluefruit Playground Hide and Seek kit](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament). Adafruit is a company that builds education prototyping electronics. The kit that we will be working with for this experiment can be purchased in pieces for $32.85 per kit from the [Adafruit website](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament?view=all). 
+Before you can start, you will need to gather the supplies. This experiment uses an Adafruit kit, specifically the {{% resource_link "6ecc37a5-2031-4dd7-be87-f958cebeca1d" "Bluefruit Playground Hide and Seek kit" %}}. Adafruit is a company that builds education prototyping electronics. The kit that we will be working with for this experiment can be purchased in pieces for $32.85 per kit from the {{% resource_link "ab54d413-1d5d-45f0-8d83-5d7b5d01186c" "Adafruit website" %}}. 
 
 {{< resource uuid="a9d50d52-9e7b-4475-8647-2f695c3ca957" >}}
 
@@ -19,11 +19,11 @@ You will want to do this with a friend or two, as two kits are needed to run the
 
 Supplies list: 
 
-- [Circuit Playground Bluefruit - Bluetooth Low Energy](https://www.adafruit.com/product/4333) x2 - $24.95 each
-- [Lithium Ion Polymer Battery with Short Cable](https://www.adafruit.com/product/4237) x2 - $5.95 each
-- [DIY Ornament Kit](https://www.adafruit.com/product/4036) x2 - $1.95 each
+- {{% resource_link "d5d75abf-b389-4c1a-bf22-1ddd4ee34fbf" "Circuit Playground Bluefruit - Bluetooth Low Energy" %}} x2 - $24.95 each
+- {{% resource_link "b48a78fb-1440-4c9d-9e21-41e511bb9c4d" "Lithium Ion Polymer Battery with Short Cable" %}} x2 - $5.95 each
+- {{% resource_link "8d533628-8bba-4c3f-a45c-442da9df10e3" "DIY Ornament Kit" %}} x2 - $1.95 each
 - USB Cable x1
-- Note that we do not require the [Circuit Playground Enclosure](https://www.adafruit.com/product/3915) for this activity. However, you can use this enclosure in place of the Ornament kit if you would like. It is more expensive at $4.95.
+- Note that we do not require the {{% resource_link "e9ef3f48-9f7e-4df2-a343-4b7f442f2f8d" "Circuit Playground Enclosure" %}} for this activity. However, you can use this enclosure in place of the Ornament kit if you would like. It is more expensive at $4.95.
 
 If you are waiting on the kit to arrive in the mail, continue with the lesson and come back to this experiment later. You can also skip this lab if you have time constraints. Kits may be available for loan on a case-by-case basis.
 
