@@ -11,13 +11,13 @@ Now let’s shift our focus to the ***Build*** phase. Going forward, we assum
 
 The first step of recreating the Adafruit experiment is to set up the **development environment**. A development environment usually includes a text editor to program in, such as an *Integrated Development Environment* or IDE for short, a required set of dependencies like libraries (bundled code for reuse), and a way of building and then imaging your code onto the final device (if there is hardware involved). Here, we will be using **CircuitPython** to help with these tasks.
 
-This lab is pulled from Adafruit’s [Hide and Seek Bluefruit Ornament experiment](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament/circuitpython-on-circuit-playground-bluefruit). The incorporated tutorial that follows will take you through downloading the Python environment/app to program your new board.   
+This lab is pulled from Adafruit’s {{% resource_link "1b26af09-2cf3-4197-902a-3817c70407e5" "Hide and Seek Bluefruit Ornament experiment" %}}. The incorporated tutorial that follows will take you through downloading the Python environment/app to program your new board.   
 
 Through this experiment, we will give you an initial look into programming as well as working with development boards. The code is provided for you for ease of use. This way, you can focus on the process of setting up a development environment and imaging code to run on your circuit board, not on the program language syntax. We also break down the code to describe how it works. 
 
 ### Install Circuit Python
 
-Download the latest version of Circuit Python from [circuitpython.org](https://circuitpython.org/board/circuitplayground_bluefruit/) (Click on Download .UF2) and save it to your Desktop (or wherever is handy). 
+Download the latest version of Circuit Python from {{% resource_link "32040494-1075-449d-a3f0-99c6aac5f91b" "circuitpython.org" %}} (Click on Download .UF2) and save it to your Desktop (or wherever is handy). 
 
 Plug your Circuit Playground Bluefruit into your computer using a known-good data-capable USB cable. 
 
@@ -37,7 +37,7 @@ The LEDs will turn red. Then, the **CPLAYBTBOOT** drive will disappear and a n
 
 If you do not already have an empty **lib** folder on your **CIRCUITPY** drive, create one now.
 
-Go to [https://circuitpython.org/libraries](https://circuitpython.org/libraries) and download the latest version of the adafruit-circuitpython-bundle. The bundle will download as a .zip file. Extract the file and open the resulting folder. Open the **lib** folder found within. 
+Go to {{% resource_link "8f563bdd-465c-47e0-a2e8-b2779d861796" "https://circuitpython.org/libraries" %}} and download the latest version of the adafruit-circuitpython-bundle. The bundle will download as a .zip file. Extract the file and open the resulting folder. Open the **lib** folder found within. 
 
 Once inside, you'll find a lengthy list of folders and .mpy files, but we only need some of them. To install a CircuitPython library, you drag the file or folder from the **bundle lib folder** to **the lib folder on your CIRCUITPY drive**. 
 
@@ -64,7 +64,7 @@ Now you're all set to use CircuitPython with the features of the Circuit Pla
 
 The **adafruit\_circuitplayground** library allows us to use essential commands and features of the board without a lot of setup in our code! Since we're using the **adafruit\_circuitplayground** library in this project, be sure you have all of the libraries installed as specified in the section above.
 
-Let’s talk about what the code does and how it works! The code is written out below but is available for easy download: [Python Code (PY)](https://courses.llx.edly.io/assets/courseware/v1/42f035f7517399e0802ef4141b26e569/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/code.py). Once downloaded, copy the file into the **CIRCUITPY** drive and overwrite the default "code.py" file that is there. Before you run it though, let’s look at what it does. 
+Let’s talk about what the code does and how it works! The code is written out below but is available for easy download: {{% resource_link "c2df8307-adb8-4fbc-87cc-46527f31a216" "Python Code (PY)" %}}. Once downloaded, copy the file into the **CIRCUITPY** drive and overwrite the default "code.py" file that is there. Before you run it though, let’s look at what it does. 
 
 **Code.py Code Load:** 
 

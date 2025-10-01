@@ -9,9 +9,9 @@ Welcome to “Introduction to Engineering Concepts," a lesson that will introduc
 
 To accomplish these goals, we invited several subject matter experts from across MIT Lincoln Laboratory (LL) to discuss their involvement in interesting, topical projects. Our in-lesson experiments were inspired by three of these projects and demonstrate the real and varied possibilities of engineering:
 
-- Filtration lab inspired by MIT LL’s study with Homeland Security on the spread of COVID in New York’s public transportation system ([Biotechnology and Human Systems](https://www.ll.mit.edu/r-d/biotechnology-and-human-systems)).
-- Bluetooth tag lab derived from the Privacy Automated Contact Tracing (PACT) project ([Cyber Security & Information Sciences](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences)).
-- Clausewitzian chess lab is adopted from a MIT LL gamified multi-domain adaptive warfare study ([Homeland Protection](https://www.ll.mit.edu/r-d/homeland-protection)). 
+- Filtration lab inspired by MIT LL’s study with Homeland Security on the spread of COVID in New York’s public transportation system ({{% resource_link "a7578cb3-fbba-4f9b-bb7c-3960a062d7bd" "Biotechnology and Human Systems" %}}).
+- Bluetooth tag lab derived from the Privacy Automated Contact Tracing (PACT) project ({{% resource_link "69aeb64d-b0b0-4c48-aff5-426d3ac9a159" "Cyber Security & Information Sciences" %}}).
+- Clausewitzian chess lab is adopted from a MIT LL gamified multi-domain adaptive warfare study ({{% resource_link "dee871e2-1bfc-4359-86d6-cd7d702df4e9" "Homeland Protection" %}}). 
 
 Most importantly, we ask you to bring your personal expression to the experiments in this lesson. Engineering is an art and like any art, everyone brings their own perspective and ideas.
 
@@ -27,4 +27,4 @@ After completing this lesson, you will…
 - Be familiar with the engineering process
 - Be able to apply the engineering process to solve current, relevant problems that interest you
 
-This lesson is supported in part by a grant received from the [MIT Community Service Fund](https://csf.mit.edu/).
+This lesson is supported in part by a grant received from the {{% resource_link "15a924a8-9090-4693-b375-d3a568b87987" "MIT Community Service Fund" %}}.

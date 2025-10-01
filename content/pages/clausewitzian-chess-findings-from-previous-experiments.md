@@ -5,7 +5,7 @@ draft: false
 title: Clausewitzian Chess | Findings from Previous Experiments
 uid: 520ce5bc-11d0-4412-aa24-dc279d1f6c3a
 ---
-When this experiment was run by Lincoln Laboratory, multiple interesting conclusions were found as detailed in the [**DARPA CASCADE - Clausewitzian Chess: Companion Guide (PDF)**](https://raw.githubusercontent.com/mit-ll/Clausewitzian_Chess/master/Clausewitzian_Chess_v6.pdf) ***Findings*** section:
+When this experiment was run by Lincoln Laboratory, multiple interesting conclusions were found as detailed in the {{% resource_link "aa65f7d9-1f70-4eb7-94d6-126f3fe3ee58" "**DARPA CASCADE - Clausewitzian Chess: Companion Guide (PDF)**" %}} ***Findings*** section:
 
 **More Caution:** Players behave differently when there is uncertainty involved. With full knowledge of the game board, they are more willing to advance their more capable pieces since they fully understand the risks of that action. However, when unsure of those risks, players were likely to hold their more capable pieces in reserve unless they were willing to sacrifice that piece outright. 
 
@@ -19,6 +19,6 @@ When this experiment was run by Lincoln Laboratory, multiple interesting conclus
 
 #### **Relevant Links:**  
 
-- [Interactive Clausewitzian Chess Board](http://clausewitzianchess.com/)
-- [Manual (PDF)](https://raw.githubusercontent.com/mit-ll/Clausewitzian_Chess/master/Clausewitzian_Chess_v6.pdf)
-- [Clausewitzian Chess Code Repository](https://github.com/mit-ll/Clausewitzian_Chess)
+- {{% resource_link "738525f8-2c72-4704-932c-90dc336f2d09" "Interactive Clausewitzian Chess Board" %}}
+- {{% resource_link "aa65f7d9-1f70-4eb7-94d6-126f3fe3ee58" "Manual (PDF)" %}}
+- {{% resource_link "5ed8d153-9d86-49f0-85dc-54900aa2ef51" "Clausewitzian Chess Code Repository" %}}
