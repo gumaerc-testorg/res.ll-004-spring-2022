@@ -9,13 +9,13 @@ uid: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
 
 > Bluetooth Hide and Seek experiment introduction by Juliana Furgala.
 
-The global health crises that began in 2019 brought new uses for existing technology. Specifically, cellular phones have a “find my phone” functionality that uses phone-to-phone Bluetooth chirp communication. This functionality was repurposed for anonymous contact tracing under the [Private Automated Contact Tracing](https://pact.mit.edu/) (PACT) effort. PACT was a collaborative effort by numerous organizations to provide a secure, anonymous, informative way of determining if you (well, your phone) have been in contact with someone who has COVID. Through close collaboration with industry, support for this functionality was built into Apple phones and available on Android phones as an app. 
+The global health crises that began in 2019 brought new uses for existing technology. Specifically, cellular phones have a “find my phone” functionality that uses phone-to-phone Bluetooth chirp communication. This functionality was repurposed for anonymous contact tracing under the {{% resource_link "ffb5a7e3-3809-48ed-9eea-e31f426cd316" "Private Automated Contact Tracing" %}} (PACT) effort. PACT was a collaborative effort by numerous organizations to provide a secure, anonymous, informative way of determining if you (well, your phone) have been in contact with someone who has COVID. Through close collaboration with industry, support for this functionality was built into Apple phones and available on Android phones as an app. 
 
 {{< resource uuid="669fe0a9-cfdb-4b27-b334-fb1acf1cb070" >}}
 
 What is PACT?  
 
-[PACT’s (PDF)](https://pact.mit.edu/wp-content/uploads/2020/05/PACT-Mission-and-Approach-2020-05-19-.pdf) mission is to enhance contact tracing in pandemic response by designing exposure detection functions in personal digital communication devices that have maximal public health utility while preserving privacy. **The PACT team is a partnership among cryptographers, physicians, privacy experts, scientists, and engineers**.
+{{% resource_link "00e6bc55-14d5-4150-b9a8-dff14a91963a" "PACT’s (PDF)" %}} mission is to enhance contact tracing in pandemic response by designing exposure detection functions in personal digital communication devices that have maximal public health utility while preserving privacy. **The PACT team is a partnership among cryptographers, physicians, privacy experts, scientists, and engineers**.
 
 {{< resource uuid="906fa1ec-b23c-4731-ae2d-dfa7f1012c11" >}}
 

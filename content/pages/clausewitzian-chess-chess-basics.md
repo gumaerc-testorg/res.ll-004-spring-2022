@@ -64,7 +64,7 @@ The first time a pawn moves, it can move two squares. 
 
 If the pawn reaches the fifth row (near enemy lines) and the opponent moves their pawn two squares, starting from the front line, then the pawn can move diagonally and overtake it, capturing it in the process.  
 
-[See this example GIF.](https://upload.wikimedia.org/wikipedia/commons/0/09/Ajedrez_animaci%C3%B3n_en_passant.gif)
+{{% resource_link "119ef3ea-ee13-41c7-9f88-c36667465680" "See this example GIF." %}}
 
 Pawns are the only piece that cannot move backwards. 
 
@@ -124,6 +124,6 @@ One square in any direction as long as the new location is not under attack. The
 
 ### Clausewitzian Chess Setup and Mechanics
 
-The Clausewitzian Chess document provides a lot of details on all the buttons and options so your first step is to review the ***Game Element and Design*** section of the [**Clausewitzian Chess document (PDF)**](https://raw.githubusercontent.com/mit-ll/Clausewitzian_Chess/master/Clausewitzian_Chess_v6.pdf)*.* 
+The Clausewitzian Chess document provides a lot of details on all the buttons and options so your first step is to review the ***Game Element and Design*** section of the {{% resource_link "aa65f7d9-1f70-4eb7-94d6-126f3fe3ee58" "**Clausewitzian Chess document (PDF)**" %}}*.* 
 
-For each scenario below, you will be setting up your own versions of chess at [Clausewitzian Chess](http://clausewitzianchess.com/) that matches that description. Try to solve the game. When you finish each game, return here for questions to reflect on and to continue to the next scenario.
+For each scenario below, you will be setting up your own versions of chess at {{% resource_link "738525f8-2c72-4704-932c-90dc336f2d09" "Clausewitzian Chess" %}} that matches that description. Try to solve the game. When you finish each game, return here for questions to reflect on and to continue to the next scenario.

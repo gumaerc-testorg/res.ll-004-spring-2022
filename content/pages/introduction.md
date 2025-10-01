@@ -23,11 +23,11 @@ So, first, what is engineering? Here’s what the Oxford Languages Dictionary sa
 >     - the work done by, or the occupation of, an engineer
 >     - the action of working artfully to bring something about 
 > 
-> [Definitions from Oxford Languages](https://languages.oup.com/google-dictionary-en)
+> {{% resource_link "4a634a44-e4ce-4a8d-8bb5-c0691e7bee91" "Definitions from Oxford Languages" %}}
 
 Engineering is not only a career path and discipline; it involves creativity, thinking outside the box, and pushing current technologies into the future. What’s more, engineering makes possible the invention of technologies and products that don’t even exist yet!
 
-The latter is something at which MIT Lincoln Laboratory excels. Our innovations have helped us build a reputation as an organization that can help solve some of the world’s biggest problems using research and development (R&D)—our bread and butter. For example, the Laboratory has [supported disaster relief efforts](https://www.ll.mit.edu/impact/technology-confronts-disaster) by deploying laser radar imaging technologies to survey disaster zones from the air. Instead of manufacturing and selling the products we design like a normal company would, MIT LL turns its inventions over to the client who paid for the research (the Department of Defense, for example), or to another company who will license the technology and take it to market. More on that later.
+The latter is something at which MIT Lincoln Laboratory excels. Our innovations have helped us build a reputation as an organization that can help solve some of the world’s biggest problems using research and development (R&D)—our bread and butter. For example, the Laboratory has {{% resource_link "85226e2e-dea1-403f-a4ef-25a7ee44fc1d" "supported disaster relief efforts" %}} by deploying laser radar imaging technologies to survey disaster zones from the air. Instead of manufacturing and selling the products we design like a normal company would, MIT LL turns its inventions over to the client who paid for the research (the Department of Defense, for example), or to another company who will license the technology and take it to market. More on that later.
 
 {{< resource uuid="9ffd618e-4ee5-4733-8d8f-d88762d388cb" >}}
 
